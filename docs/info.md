@@ -13,6 +13,7 @@ Explain how your project works
 wokwi project using Dff to display on seven segment 
 
 ## How to test
+initiali[0]
 
 Explain how to use your project
 
