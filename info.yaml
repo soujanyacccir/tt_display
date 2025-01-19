@@ -17,7 +17,7 @@ pinout:
   # Inputs
   ui[0]: "run"
   ui[1]: ""
-  ui[2]: "state_init[0]"
+  ui[2]: "state_init[1]"
   ui[3]: ""
   ui[4]: ""
   ui[5]: ""
