@@ -8,7 +8,7 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
+it workes by setting initially [0]
 Explain how your project works
 wokwi project using Dff to display on seven segment 
 
